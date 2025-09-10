@@ -1,0 +1,5 @@
+{
+  "name": "AI Timetable Generator",
+  "description": "An intelligent, AI-powered platform for generating optimized academic timetables. It features real-time conflict detection, resource management, and role-based dashboards for authorities and students, ensuring balanced and efficient scheduling.",
+  "requestFramePermissions": []
+}
